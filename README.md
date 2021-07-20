@@ -17,4 +17,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License
 MIT
 
-[Kodluyoruz Akademi Logo] (https://app.patika.dev/kodluyoruz-yazili-logo.jpg)
+[Kodluyoruz Akademi Logo](https://app.patika.dev/kodluyoruz-yazili-logo.jpg)
